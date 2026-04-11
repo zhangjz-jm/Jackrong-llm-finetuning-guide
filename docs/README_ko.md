@@ -68,7 +68,8 @@
 | :--- | :---: | :---: |
 | **Qwen 3.5** | ✅ 출시됨 | 예정됨 |
 | **Qwen 3** | 예정됨 | 예정됨 |
-| **Llama** (3.1 / 3.2 / 3.3) | 예정됨 | 예정됨 |
+| **Llama3.2 (3B)** | ✅ 포함됨 | ✅ 출시됨 |
+| **Llama** (3.1 / 3.3) | 예정됨 | 예정됨 |
 | **Phi-4** | 예정됨 | 예정됨 |
 | **Gemma 4** | 예정됨 | 예정됨 |
 | **DeepSeek** | 예정됨 | 예정됨 |
@@ -77,7 +78,7 @@
 
 ## 📓 대화형 학습 노트북
 
-아래는 모델 아키텍처별로 정리된 Colab 노트북입니다. 데이터 준비부터 학습, 추론까지의 전체 파이프라인을 브라우저에서 직접 실행할 수 있습니다. 모든 노트북은 저장소의 [`train_code`](../train_code/) 폴더에 저장되어 있습니다.
+아래는 모델 아키텍처별로 정리된 Kaggle 및 Colab 대화형 노트북입니다. 데이터 준비부터 학습, 추론까지의 전체 파이프라인을 브라우저에서 직접 실행할 수 있습니다. 모든 노트북은 저장소의 [`train_code`](../train_code/) 폴더에 저장되어 있습니다.
 
 ### 🌟 메인 노트북
 
@@ -86,6 +87,7 @@
 | **Qwopus3.5 (27B)** | SFT / LoRA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |
 | **Qwen3.5 (9B)** | SFT / LoRA | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwen3.5-9B-Neo-Kaggle.ipynb) |
 | **Qwopus3.5 (35B)** | SFT / LoRA | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus-3.5-35B-A3B-Kaggle.ipynb) |
+| **Llama3.2 (3B)** | RL / GRPO | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Llama-3.2-3B-R1-Zero-GRPO.ipynb) |
 
 ---
 

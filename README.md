@@ -68,7 +68,8 @@ Below is the planned support matrix for upcoming model families:
 | :--- | :---: | :---: |
 | **Qwen 3.5** | ✅ Released | Scheduled |
 | **Qwen 3** | Scheduled | Scheduled |
-| **Llama** (3.1 / 3.2 / 3.3) | Scheduled | Scheduled |
+| **Llama3.2 (3B)** | ✅ Included | ✅ Released |
+| **Llama** (3.1 / 3.3) | Scheduled | Scheduled |
 | **Phi-4** | Scheduled | Scheduled |
 | **Gemma 4** | Scheduled | Scheduled |
 | **DeepSeek** | Scheduled | Scheduled |
@@ -77,7 +78,7 @@ Below is the planned support matrix for upcoming model families:
 
 ## 📓 Interactive Training Notebooks
 
-Below are the Colab notebooks, organized by model architecture. You can run the entire pipeline—from data preparation to training and inference—directly in your browser. All notebooks are available in the [`train_code`](./train_code/) repository folder.
+Below are the interactive Kaggle and Colab notebooks, organized by model architecture. You can run the entire pipeline—from data preparation to training and inference—directly in your browser. All notebooks are available in the [`train_code`](./train_code/) repository folder.
 
 ### 🌟 Main Notebooks
 
@@ -86,6 +87,7 @@ Below are the Colab notebooks, organized by model architecture. You can run the 
 | **Qwopus3.5 (27B)** | SFT / LoRA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |
 | **Qwen3.5 (9B)** | SFT / LoRA | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwen3.5-9B-Neo-Kaggle.ipynb) |
 | **Qwopus3.5 (35B)** | SFT / LoRA | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus-3.5-35B-A3B-Kaggle.ipynb) |
+| **Llama3.2 (3B)** | RL / GRPO | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Llama-3.2-3B-R1-Zero-GRPO.ipynb) |
 
 ---
 

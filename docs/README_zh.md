@@ -68,7 +68,8 @@
 | :--- | :---: | :---: |
 | **Qwen 3.5** | ✅ 已发布 | 已排期 |
 | **Qwen 3** | 已排期 | 已排期 |
-| **Llama** (3.1 / 3.2 / 3.3) | 已排期 | 已排期 |
+| **Llama3.2 (3B)** | ✅ 已包含 | ✅ 已发布 |
+| **Llama** (3.1 / 3.3) | 已排期 | 已排期 |
 | **Phi-4** | 已排期 | 已排期 |
 | **Gemma 4** | 已排期 | 已排期 |
 | **DeepSeek** | 已排期 | 已排期 |
@@ -77,7 +78,7 @@
 
 ## 📓 交互式训练笔记本
 
-以下是按模型架构分类的 Colab 笔记本。您可以直接在浏览器中运行从数据准备到训练和推理的整个管道。所有笔记本都存储在仓库的 [`train_code`](../train_code/) 目录下。
+以下是按模型架构分类的交互式 Kaggle 与 Colab 笔记本。您可以直接在浏览器中运行从数据准备到训练和推理的整个管道。所有笔记本都存储在仓库的 [`train_code`](../train_code/) 目录下。
 
 ### 🌟 核心笔记本
 
@@ -86,6 +87,7 @@
 | **Qwopus3.5 (27B)** | SFT / LoRA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |
 | **Qwen3.5 (9B)** | SFT / LoRA | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwen3.5-9B-Neo-Kaggle.ipynb) |
 | **Qwopus3.5 (35B)** | SFT / LoRA | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus-3.5-35B-A3B-Kaggle.ipynb) |
+| **Llama3.2 (3B)** | RL / GRPO | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Llama-3.2-3B-R1-Zero-GRPO.ipynb) |
 
 ---
 
