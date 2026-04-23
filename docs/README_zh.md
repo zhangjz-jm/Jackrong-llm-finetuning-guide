@@ -97,6 +97,9 @@
 
 > [!TIP]
 > **🔗 [下载完整指南：Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf)**
+>
+> **🔗 [下载技术报告：Qwopus-GLM-18B-Technical-Report.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus-GLM-18B-Technical-Report.pdf)**
+> 一份简明的技术报告，涵盖 Qwopus-GLM-18B 的模型设计、训练思路与关键实现细节。
 
 ---
 

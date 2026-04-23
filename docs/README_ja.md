@@ -97,6 +97,9 @@ Kwopus 3.5 のファインチューニングプロセス全体（環境設定、
 
 > [!TIP]
 > **🔗 [フルガイドをダウンロード: Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf)**
+>
+> **🔗 [技術レポートをダウンロード: Qwopus-GLM-18B-Technical-Report.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus-GLM-18B-Technical-Report.pdf)**
+> Qwopus-GLM-18B のモデル設計、学習の狙い、主要な実装ポイントを簡潔にまとめた技術レポートです。
 
 ---
 

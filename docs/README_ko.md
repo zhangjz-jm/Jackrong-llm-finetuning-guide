@@ -97,6 +97,9 @@ Qwopus 3.5 파인튜닝 프로세스 전체(환경 설정, 데이터 준비 및 
 
 > [!TIP]
 > **🔗 [전체 가이드 다운로드: Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf)**
+>
+> **🔗 [기술 보고서 다운로드: Qwopus-GLM-18B-Technical-Report.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus-GLM-18B-Technical-Report.pdf)**
+> Qwopus-GLM-18B의 모델 설계, 학습 배경, 핵심 구현 세부 사항을 간략히 정리한 기술 보고서입니다.
 
 ---
 

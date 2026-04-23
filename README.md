@@ -97,6 +97,9 @@ For a detailed, step-by-step PDF walkthrough of the entire Qwopus 3.5 fine-tunin
 
 > [!TIP]
 > **🔗 [Download Complete Guide: Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf)**
+>
+> **🔗 [Download Technical Report: Qwopus-GLM-18B-Technical-Report.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus-GLM-18B-Technical-Report.pdf)**
+> A concise technical report covering the Qwopus-GLM-18B model design, training rationale, and key implementation details.
 
 ---
 
